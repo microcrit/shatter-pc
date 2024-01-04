@@ -45,3 +45,25 @@ SHATTER!, if you are unable to make a custom PCIe bracket, shall have a custom I
 
 SHATTER! should have a minimum 64GB of RAM in order to run most games flawlessly.   
 
+
+## Total Price of acai's SHATTER! build - $1500
+- RTX 4060 8gb
+- 64GB 3600mhz DDR4 RAM
+- B550i motherboard
+- Dual fan 240mm liquid cooler
+- 2x 240mm fans
+- Vertical GPU riser
+- Ryzen 5 5600x
+- Redragon keyboard and mouse, low profile
+- Sheets of thick acrylic and Lexan
+- 8 sheets of thick aluminum
+- Cable organizer
+- 14" portable display
+
+## To build:
+- Must have experience with PC building, especially SFF PCs
+- Must know how airflow works in low ventilation environments
+- Must have experience cutting polycarb, acrylic, aluminum, building and drilling.
+
+Keep in mind this is a very small build with larger components. It will be hard to properly carry around, but doable.   
+I will be carrying this PC to and from school every day.   
