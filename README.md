@@ -45,6 +45,9 @@ SHATTER!, if you are unable to make a custom PCIe bracket, shall have a custom I
 
 SHATTER! should have a minimum 64GB of RAM in order to run most games flawlessly.   
 
+SHATTER! must have Bluetooth and WiFi antennas for proper connectivity (I will use the SFF Noir ShadowLink).   
+
+
 
 ## Total Price of acai's SHATTER! build - $1500
 - RTX 4060 8gb
